@@ -1,6 +1,15 @@
-Halo semuanya! 👋
-Perkenalkan, nama saya Arsellya Dwi Anggara.
-Saya merupakan mahasiswa Teknik Informatika di Institut Teknologi Nasional (ITN). Saat ini saya tertarik untuk memperdalam pemahaman di bidang teknologi informasi dan pengembangan sistem, khususnya yang berkaitan dengan pemrograman dan kecerdasan buatan.
+# Hi there 👋
 
-Melalui program dan kelas yang saya ikuti, saya berharap dapat mengembangkan kemampuan teknis sekaligus memperoleh wawasan praktis yang relevan dengan kebutuhan industri.
-Senang bisa belajar dan berdiskusi bersama teman-teman semua. Semoga kita bisa saling berbagi ilmu selama kegiatan ini berlangsung.
+I'm Arsellya Dwi Anggara  
+🎓 Informatics Engineering Student at ITN Malang
+
+## 🚀 Tech Stack
+Laravel • React • Python
+
+## 🌱 Currently Learning
+Machine Learning & AI Development
+
+## 📌 Current Projects
+- BookVerse AI E-Commerce
+- ITNPress E-Commerce
+- Ramadhan Infaq Platform Website
